@@ -1,0 +1,17 @@
+h1{
+    color: rgb(37, 4, 109);
+}
+
+
+.input-box-size{
+    align-items: center;
+    
+  
+}
+.three-column-container{
+    display:flex;
+    width: 50%;
+}
+.calc-buttons{
+    display: flex;
+}
